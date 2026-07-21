@@ -7,7 +7,7 @@ Blockchain Developer & UI/UX Builder based in Greece. Focused on creating secure
 ### 🌐 Connect & Portfolio
 - **Website/Portfolio:** [mooz.top](https://mooz.top)
 - **LinkedIn:** [Dimitrios Misios](https://www.linkedin.com/in/dimitrios-misios-b10373243/)
-- **Twitter:** [@MisiosDimitris](https://twitter.com/MisiosDimitris)
+- **Twitter:** [@d_misios](https://twitter.com/d_misios)
 
 ---
 
