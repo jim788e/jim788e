@@ -2,6 +2,9 @@
 
 Blockchain Developer & UI/UX Builder based in Greece. Focused on creating secure Web3 smart contracts, high-performance decentralized applications, and premium user experiences.
 
+[![Followers](https://img.shields.io/github/followers/jim788e?label=Followers&style=flat-square&color=181717&logo=github)](https://github.com/jim788e?tab=followers)
+[![Stars](https://img.shields.io/github/stars-of-user/jim788e?label=Total%20Stars&style=flat-square&color=181717&logo=github)](https://github.com/jim788e?tab=repositories)
+
 ---
 
 ### 🌐 Connect & Portfolio
@@ -12,15 +15,17 @@ Blockchain Developer & UI/UX Builder based in Greece. Focused on creating secure
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** TypeScript, JavaScript, Solidity, Python, HTML/CSS, Rust
-- **Frameworks & Libs:** Astro, React, Next.js, GSAP, TailwindCSS, Hardhat, Ethers.js
-- **Specialties:** DeFi Vaults, Smart Contract Audits, Front-End Animation, Responsive UI/UX
-
----
-
-### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jim788e&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jim788e&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/Solidity-181717?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Astro-181717?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-181717?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 </p>
+
+- **Blockchain & Web3:** Smart Contract Auditing, DeFi Vaults, Hardhat, Foundry, Ethers.js
+- **UI/UX & Frontend:** GSAP Animation, TailwindCSS, Responsive Design, Interactive UI
