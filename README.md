@@ -7,6 +7,13 @@ Blockchain Developer & UI/UX Builder based in Greece. Focused on creating secure
 
 ---
 
+### 🚀 Featured Project: [Multiscraper](https://github.com/jim788e/Multiscraper)
+A powerful Chrome Extension built to extract and download structured data from websites efficiently.
+- **Features:** Instantly scrapes page text, links, and custom DOM elements.
+- **Tech Stack:** JavaScript, Chrome Extension API, HTML, CSS.
+
+---
+
 ### 🌐 Connect & Portfolio
 - **Website/Portfolio:** [mooz.top](https://mooz.top)
 - **LinkedIn:** [Dimitrios Misios](https://www.linkedin.com/in/dimitrios-misios-b10373243/)
