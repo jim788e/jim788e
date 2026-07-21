@@ -3,7 +3,7 @@
 Blockchain Developer & UI/UX Builder based in Greece. Focused on creating secure Web3 smart contracts, high-performance decentralized applications, and premium user experiences.
 
 [![Followers](https://img.shields.io/github/followers/jim788e?label=Followers&style=flat-square&color=181717&logo=github)](https://github.com/jim788e?tab=followers)
-[![Stars](https://img.shields.io/github/stars-of-user/jim788e?label=Total%20Stars&style=flat-square&color=181717&logo=github)](https://github.com/jim788e?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/jim788e?label=Total%20Stars&style=flat-square&color=181717&logo=github)](https://github.com/jim788e?tab=repositories)
 
 ---
 
