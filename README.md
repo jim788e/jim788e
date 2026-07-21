@@ -1,6 +1,6 @@
 # Dimitrios Misios
 
-Blockchain Developer & UI/UX Builder based in Greece. Focused on creating secure Web3 smart contracts, high-performance decentralized applications, and premium user experiences.
+Blockchain Developer, AI Agent Builder & UI/UX Specialist based in Greece. Focused on creating secure Web3 smart contracts, intelligent AI agents, and premium user experiences.
 
 [![Followers](https://img.shields.io/github/followers/jim788e?label=Followers&style=flat-square&color=181717&logo=github)](https://github.com/jim788e?tab=followers)
 [![Stars](https://img.shields.io/github/stars/jim788e?label=Total%20Stars&style=flat-square&color=181717&logo=github)](https://github.com/jim788e?tab=repositories)
@@ -32,7 +32,9 @@ A powerful Chrome Extension built to extract and download structured data from w
   <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-181717?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/AI%20Agents-181717?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
 </p>
 
 - **Blockchain & Web3:** Smart Contract Auditing, DeFi Vaults, Hardhat, Foundry, Ethers.js
-- **UI/UX & Frontend:** GSAP Animation, TailwindCSS, Responsive Design, Interactive UI
+- **UI/UX & Frontend:** Astro, React, Next.js, GSAP Animation, TailwindCSS, Responsive Design, Interactive UI
+- **AI & Automation:** AI Agents, LLM Integration, Browser Automation, Web Scraping
