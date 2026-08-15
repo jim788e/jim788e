@@ -1,5 +1,3 @@
-![Dimitris Misios](banner.png)
-
 # Dimitrios Misios 👋
 
 Hi, I'm **Dimitrios Misios**, a Blockchain Developer, AI Agent Builder & UI/UX Specialist based in 🇬🇷 Greece. Focused on creating secure Web3 smart contracts, intelligent AI agents, and premium user experiences.
