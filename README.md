@@ -9,6 +9,25 @@ Right now I'm focused on bringing autonomous AI agents, Model Context Protocol (
 
 ---
 
+### 🛡️ Featured: SitePilot MCP (*Guarded WordPress Control for Coding Agents*)
+
+Connect AI coding agents to WordPress through typed operations, read-only scopes, human approvals, audit records, and rollback data. Your coding agent proposes; your WordPress site keeps the final say.
+
+[![Website](https://img.shields.io/badge/website-sitepilot.tools-5A45FF?style=flat-square&logo=googlechrome&logoColor=white)](https://sitepilot.tools/)
+[![npm](https://img.shields.io/npm/v/sitepilot-mcp?style=flat-square&color=CB3837&logo=npm)](https://www.npmjs.com/package/sitepilot-mcp)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/jim788e/sitepilot-mcp-npm/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/jim788e/sitepilot-mcp-npm?style=flat-square&color=181717&logo=github)](https://github.com/jim788e/sitepilot-mcp-npm)
+
+- 🔒 **Read-Only First:** Remote client registration with default `site:read` ceiling.
+- 🚦 **Human Approval Gate:** Sensitive actions pause for expiring, hash-bound human confirmations.
+- 📐 **Typed Operations:** Bounded operation table with zero arbitrary PHP, SQL, shell, or filesystem access.
+- ⏪ **Audit & Rollback:** Retains snapshots and ordered compensation records for fast rollback.
+- 🧩 **Builder-Aware:** First-class support for Gutenberg, Elementor 3/4, Enfold, and WooCommerce.
+- 🌐 **Live Website:** [sitepilot.tools](https://sitepilot.tools/) · 📚 **Docs:** [docs.sitepilot.tools](https://docs.sitepilot.tools/)
+- 📦 **Repo:** [github.com/jim788e/sitepilot-mcp-npm](https://github.com/jim788e/sitepilot-mcp-npm) · 📦 **npm:** [sitepilot-mcp](https://www.npmjs.com/package/sitepilot-mcp)
+
+---
+
 ### 🚀 What I'm building: Multiscraper (*Instagram, TikTok & Google Business Exporter*)
 
 A powerful **Manifest V3 Chrome Extension** that exports complete profile data and media with zero paywalls. Runs directly inside your authenticated browser session to extract full feeds, verified engagement counts, reviews, and high-res media.
@@ -35,7 +54,6 @@ A powerful **Manifest V3 Chrome Extension** that exports complete profile data a
 ### 🎓 What I also build & research
 
 - 🎨 **[Logo Creation Skill](https://github.com/jim788e/logo-creation-skill)**: Claude skill that designs complete logo identity systems, verified against 16px rendering, grayscale contrast, and automated SVG structural checks.
-- 🤖 **SitePilot MCP** *(In Progress)*: Guarded Model Context Protocol (MCP) and OAuth 2.1 Control Plane for WordPress & CMS automation.
 - 💼 **[InstantBuild](https://instantbuild.site/)**: Modern web studio crafting high-speed, bilingual websites with Astro, AI-accelerated workflows, and 100/100 Lighthouse performance.
 
 ---
