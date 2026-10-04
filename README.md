@@ -13,6 +13,7 @@ Right now I'm focused on bringing autonomous AI agents, Model Context Protocol (
 
 Connect AI coding agents to WordPress through typed operations, read-only scopes, human approvals, audit records, and rollback data. Your coding agent proposes; your WordPress site keeps the final say.
 
+[![Download](https://img.shields.io/badge/download-v0.4.16-5A45FF?style=flat-square&logo=wordpress&logoColor=white)](https://sitepilot.tools/download/)
 [![Website](https://img.shields.io/badge/website-sitepilot.tools-5A45FF?style=flat-square&logo=googlechrome&logoColor=white)](https://sitepilot.tools/)
 [![npm](https://img.shields.io/npm/v/sitepilot-mcp?style=flat-square&color=CB3837&logo=npm)](https://www.npmjs.com/package/sitepilot-mcp)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/jim788e/sitepilot-mcp-npm/blob/main/LICENSE)
@@ -23,8 +24,9 @@ Connect AI coding agents to WordPress through typed operations, read-only scopes
 - 📐 **Typed Operations:** Bounded operation table with zero arbitrary PHP, SQL, shell, or filesystem access.
 - ⏪ **Audit & Rollback:** Retains snapshots and ordered compensation records for fast rollback.
 - 🧩 **Builder-Aware:** First-class support for Gutenberg, Elementor 3/4, Enfold, and WooCommerce.
+- 📥 **Official Download:** [sitepilot.tools/download](https://sitepilot.tools/download/) (v0.4.16 signed plugin, SHA-256 verification)
 - 🌐 **Live Website:** [sitepilot.tools](https://sitepilot.tools/) · 📚 **Docs:** [docs.sitepilot.tools](https://docs.sitepilot.tools/)
-- 📦 **Repo:** [github.com/jim788e/sitepilot-mcp-npm](https://github.com/jim788e/sitepilot-mcp-npm) · 📦 **npm:** [sitepilot-mcp](https://www.npmjs.com/package/sitepilot-mcp)
+- 📦 **Plugin:** [github.com/jim788e/sitepilot-mcp-plugin](https://github.com/jim788e/sitepilot-mcp-plugin) · 📦 **Adapter:** [github.com/jim788e/sitepilot-mcp-npm](https://github.com/jim788e/sitepilot-mcp-npm) · 📦 **npm:** [sitepilot-mcp](https://www.npmjs.com/package/sitepilot-mcp)
 
 ---
 
